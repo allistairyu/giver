@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/giver-web/static/css/main.d0776732.css",
-    "main.js": "/giver-web/static/js/main.26c9e16b.js",
-    "static/js/787.e5413bbb.chunk.js": "/giver-web/static/js/787.e5413bbb.chunk.js",
-    "static/media/james.jpg": "/giver-web/static/media/james.749350be06b4f08c05cd.jpg",
-    "static/media/logo.svg": "/giver-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/giver-web/index.html",
-    "main.d0776732.css.map": "/giver-web/static/css/main.d0776732.css.map",
-    "main.26c9e16b.js.map": "/giver-web/static/js/main.26c9e16b.js.map",
-    "787.e5413bbb.chunk.js.map": "/giver-web/static/js/787.e5413bbb.chunk.js.map"
+    "main.css": "/giver/static/css/main.d0776732.css",
+    "main.js": "/giver/static/js/main.7f55b980.js",
+    "static/js/787.e5413bbb.chunk.js": "/giver/static/js/787.e5413bbb.chunk.js",
+    "static/media/james.jpg": "/giver/static/media/james.749350be06b4f08c05cd.jpg",
+    "static/media/logo.svg": "/giver/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/giver/index.html",
+    "main.d0776732.css.map": "/giver/static/css/main.d0776732.css.map",
+    "main.7f55b980.js.map": "/giver/static/js/main.7f55b980.js.map",
+    "787.e5413bbb.chunk.js.map": "/giver/static/js/787.e5413bbb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0776732.css",
-    "static/js/main.26c9e16b.js"
+    "static/js/main.7f55b980.js"
   ]
 }
