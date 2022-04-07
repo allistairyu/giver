@@ -1,1 +1,1 @@
-[Demo](https://allistairyu.github.io/giver-web/)
+[Demo](https://allistairyu.github.io/giver/)
